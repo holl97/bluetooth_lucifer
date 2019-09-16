@@ -1,0 +1,1 @@
+Bluetooth_Lucifer is a pentesting toll. You can use it legally only when testing your devices for vulnerabilities. In other cases, the use of the tool is illegal and the author is not responsible for the damage
